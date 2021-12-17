@@ -1,3 +1,2 @@
-Git is a version control system.
-Git is free software.
-readme.txt -> README.md
+This is Version 3.0
+
